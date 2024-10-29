@@ -1,4 +1,4 @@
-# How to prepare HIVEOS to mine xenblocks (nvidia GPU only!)
+test# How to prepare HIVEOS to mine xenblocks (nvidia GPU only!)
 
 For those who are using AMD GPUs you can use old miner (given the low efficienty using opencl, you can set dual mining on these cards) link is here -> https://github.com/levykrak/xengpuminer
 
